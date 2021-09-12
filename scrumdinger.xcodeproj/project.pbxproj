@@ -15,7 +15,8 @@
 		538BC88326ED0A9500383B75 /* Color+Codable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88226ED0A9500383B75 /* Color+Codable.swift */; };
 		538BC88526ED0EF400383B75 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88426ED0EF400383B75 /* ScrumsView.swift */; };
 		538BC88726ED65FF00383B75 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88626ED65FF00383B75 /* DetailView.swift */; };
-		53CE7FD726ECF7E500770203 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CE7FD626ECF7E500770203 /* DailyScrum.swift */; };
+		538BC88926ED938400383B75 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88826ED938400383B75 /* DailyScrum.swift */; };
+		538BC88B26ED95DA00383B75 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88A26ED95DA00383B75 /* EditView.swift */; };
 		53CE7FD926ECFBAC00770203 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CE7FD826ECFBAC00770203 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
@@ -30,7 +31,8 @@
 		538BC88226ED0A9500383B75 /* Color+Codable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Codable.swift"; sourceTree = "<group>"; };
 		538BC88426ED0EF400383B75 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		538BC88626ED65FF00383B75 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
-		53CE7FD626ECF7E500770203 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		538BC88826ED938400383B75 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
+		538BC88A26ED95DA00383B75 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		53CE7FD826ECFBAC00770203 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -67,14 +69,15 @@
 				538BC88426ED0EF400383B75 /* ScrumsView.swift */,
 				5310951B26ECEABC00AC42D9 /* scrumdingerApp.swift */,
 				5310951D26ECEABC00AC42D9 /* MeetingView.swift */,
-				53CE7FD626ECF7E500770203 /* DailyScrum.swift */,
 				5310951F26ECEABD00AC42D9 /* Assets.xcassets */,
 				538BC88226ED0A9500383B75 /* Color+Codable.swift */,
+				538BC88826ED938400383B75 /* DailyScrum.swift */,
 				538BC88026ED082D00383B75 /* Models */,
 				5310952426ECEABD00AC42D9 /* Info.plist */,
 				5310952126ECEABD00AC42D9 /* Preview Content */,
 				53CE7FD826ECFBAC00770203 /* CardView.swift */,
 				538BC88626ED65FF00383B75 /* DetailView.swift */,
+				538BC88A26ED95DA00383B75 /* EditView.swift */,
 			);
 			path = scrumdinger;
 			sourceTree = "<group>";
@@ -159,9 +162,10 @@
 			files = (
 				5310951E26ECEABC00AC42D9 /* MeetingView.swift in Sources */,
 				538BC88526ED0EF400383B75 /* ScrumsView.swift in Sources */,
-				53CE7FD726ECF7E500770203 /* DailyScrum.swift in Sources */,
+				538BC88B26ED95DA00383B75 /* EditView.swift in Sources */,
 				538BC88726ED65FF00383B75 /* DetailView.swift in Sources */,
 				53CE7FD926ECFBAC00770203 /* CardView.swift in Sources */,
+				538BC88926ED938400383B75 /* DailyScrum.swift in Sources */,
 				538BC88326ED0A9500383B75 /* Color+Codable.swift in Sources */,
 				5310951C26ECEABC00AC42D9 /* scrumdingerApp.swift in Sources */,
 			);
