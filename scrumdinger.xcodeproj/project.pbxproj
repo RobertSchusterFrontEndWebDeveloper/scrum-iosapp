@@ -18,6 +18,8 @@
 		538BC88926ED938400383B75 /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88826ED938400383B75 /* DailyScrum.swift */; };
 		538BC88B26ED95DA00383B75 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 538BC88A26ED95DA00383B75 /* EditView.swift */; };
 		53CE7FD926ECFBAC00770203 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53CE7FD826ECFBAC00770203 /* CardView.swift */; };
+		53FC2EFF26EE4CDD00302F37 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FC2EFE26EE4CDD00302F37 /* MeetingHeaderView.swift */; };
+		53FC2F0126F0285A00302F37 /* ScrumTimer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FC2F0026F0285A00302F37 /* ScrumTimer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		538BC88826ED938400383B75 /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		538BC88A26ED95DA00383B75 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		53CE7FD826ECFBAC00770203 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		53FC2EFE26EE4CDD00302F37 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
+		53FC2F0026F0285A00302F37 /* ScrumTimer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScrumTimer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,7 @@
 		5310951A26ECEABC00AC42D9 /* scrumdinger */ = {
 			isa = PBXGroup;
 			children = (
+				53FC2F0026F0285A00302F37 /* ScrumTimer.swift */,
 				538BC88426ED0EF400383B75 /* ScrumsView.swift */,
 				5310951B26ECEABC00AC42D9 /* scrumdingerApp.swift */,
 				5310951D26ECEABC00AC42D9 /* MeetingView.swift */,
@@ -78,6 +83,7 @@
 				53CE7FD826ECFBAC00770203 /* CardView.swift */,
 				538BC88626ED65FF00383B75 /* DetailView.swift */,
 				538BC88A26ED95DA00383B75 /* EditView.swift */,
+				53FC2EFE26EE4CDD00302F37 /* MeetingHeaderView.swift */,
 			);
 			path = scrumdinger;
 			sourceTree = "<group>";
@@ -163,6 +169,8 @@
 				5310951E26ECEABC00AC42D9 /* MeetingView.swift in Sources */,
 				538BC88526ED0EF400383B75 /* ScrumsView.swift in Sources */,
 				538BC88B26ED95DA00383B75 /* EditView.swift in Sources */,
+				53FC2EFF26EE4CDD00302F37 /* MeetingHeaderView.swift in Sources */,
+				53FC2F0126F0285A00302F37 /* ScrumTimer.swift in Sources */,
 				538BC88726ED65FF00383B75 /* DetailView.swift in Sources */,
 				53CE7FD926ECFBAC00770203 /* CardView.swift in Sources */,
 				538BC88926ED938400383B75 /* DailyScrum.swift in Sources */,
